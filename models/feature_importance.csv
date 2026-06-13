@@ -1,0 +1,17 @@
+feature,importance
+total_revenue_obs,0.27613693
+frequency,0.11811289
+std_revenue_per_txn,0.11662202
+monetary_value,0.113366224
+n_transactions,0.08792169
+n_unique_products,0.06729205
+recency,0.05038912
+avg_days_between_purchases,0.04707266
+n_unique_months,0.043167744
+avg_revenue_per_txn,0.039449297
+T,0.02025044
+max_purchase_gap,0.016330788
+country_encoded_num,0.0038881686
+bgnbd_predicted_purchases,0.0
+prob_alive,0.0
+gamma_gamma_monetary,0.0
